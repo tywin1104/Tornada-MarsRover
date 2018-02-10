@@ -1,5 +1,5 @@
 html {
-	background:#e2b276; 
+	/*background:#e2b276; */
 }
 body {
 	margin: 0;
@@ -7,6 +7,10 @@ body {
 	font-family: sans-serif;
 }
 
+#caption {
+	font-size: 35px;
+	margin-bottom: 30px;	
+}
 .container {
 	width: 60%;
 	margin:7% auto;
